@@ -8,7 +8,7 @@ public class Main {
 
         String[] names = new String[size];
         for (int i = 0; i < size ; i++){
-            System.out.println("pleas enter a number");
+            System.out.println("pleas enter a name");
             names[i] = data.nextLine();
         }
         int number = data.nextInt();
